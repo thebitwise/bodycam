@@ -7,7 +7,7 @@
 --$$$$$$$$\ $$ |  $$ |$$ | \$$ |\$$$$$$  |$$$$$$$$\ 
 --\________|\__|  \__|\__|  \__| \______/ \________|
 -- coded by Lance/stonerchrist on Discord
-
+pluto_use "0.5.0"
 util.require_natives("2944a", "g")
 
 local resources_dir =  filesystem.resources_dir() .. '\\bodycam\\'
